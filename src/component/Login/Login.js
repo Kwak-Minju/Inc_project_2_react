@@ -40,7 +40,7 @@ const Login = () => {
             </div>
             <div className="login_bt">
                 <button className="on" onClick={onClickLogin}>로그인</button>
-                <Link to="/"><button className="cancle ">취소</button></Link>
+                <Link to="/"><button>취소</button></Link>
             </div>
         </div>
     );
