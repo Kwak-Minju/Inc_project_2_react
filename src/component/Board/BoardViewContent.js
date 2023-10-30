@@ -88,7 +88,7 @@ const BoardViewContent = ({boardId}) =>{
                     </dl>
                     <dl>
                         <dt>글쓴이</dt>
-                        <dd>{boardData[0].userId}</dd>
+                        <dd>{boardData[0].ID}</dd>
                     </dl>
                     <dl>
                         <dt>작성일</dt>

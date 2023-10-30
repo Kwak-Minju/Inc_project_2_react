@@ -1,5 +1,7 @@
-
-
+.board_write_wrap{
+    width: 1000px;
+    margin: 30px auto;
+}
 .bt_wrap {
     margin-top: 30px;
     text-align: center;
